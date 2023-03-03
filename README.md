@@ -1,1 +1,3 @@
 # design-tokens-prueba-global
+
+Esto es una prueba de design tokens de este [figma](https://u3302489.ct.sendgrid.net/ls/click?upn=5jn-2BNVr6mWrJbcZ1z4kro7M6z5QR1ou6Ifo3fveA4sj9MAwgMtCBBKxWv1E7HKn2wbH01mM-2B9HdDcEfHN4qcp3esX9dfaStvQriVkt8tS-2BziEtG31b4CcFl0r79FQRu-2BP62l_4JOw3txGRZw5-2FpQccVsjh0sbYeG4tsFVwKVFiji3pj6T1tvpvfE9HYy-2BfH6GQdrVpoERKVTDWE60YLC7k8vzIKR-2B6mCIbGRnalNe-2BpRhBTWvVWcfdwwV832NtC7lO2l4DbZkE4tbuSIg2-2FH2n1Ny9-2FFPDJBVyhqkt-2FAZOkub4DMU1Uv1p-2FUJXGzw2afgza7UqXLow1N8Y-2BYpQyR2EyOea0RTLpZ6KdHK6G8KFRVJTEdi-2BpjB6uyHau8KEQKR3pD8Dgjw1HdTebCkya5JL-2Bp1kw-3D-3D)
