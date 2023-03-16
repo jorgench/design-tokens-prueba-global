@@ -12,14 +12,15 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: "16"
       - uses: pnpm/action-setup@v2
         with:
           version: latest
       - name: Install Node Dependencies
         run: pnpm install
-      - name: Construir estilos
+      - name: Traducir estilos
         run: npx token-transformer token/tokens.json input/output.json --expandBorder global,alias --resolveReferences  global --expandShadow  --expandTypography
+      - name: Construir estilos
         run: npx style-dictionary build
       - name: Generando Commit para guardar el resultado
         id: "auto-commit-action"
