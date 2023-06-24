@@ -26,5 +26,4 @@ jobs:
         id: "auto-commit-action"
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: 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
           commit_message: Actualizacion de estilos desde UX
