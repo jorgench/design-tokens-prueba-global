@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 24 Jun 2023 05:01:25 GMT
+// Generated on Sat, 24 Jun 2023 05:06:15 GMT
 
 
 import UIKit
@@ -565,7 +565,7 @@ internal struct StyleDictionaryStruct {
     internal static let textCaseNone = none
     internal static let textDecorationNone = none
     internal static let textDecorationUnderline = underline
-    internal static let textNeutral000 = #ffff00
+    internal static let textNeutral000 = #ffffff
     internal static let textNeutral400 = #8b97cb
     internal static let textNeutral450 = #6c74a5
     internal static let textNeutral500 = #475694
