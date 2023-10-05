@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 24 Jun 2023 05:06:15 GMT
+// Generated on Thu, 05 Oct 2023 00:40:54 GMT
 
 
 import UIKit
@@ -565,7 +565,7 @@ public class StyleDictionaryClass {
     public static let textCaseNone = none
     public static let textDecorationNone = none
     public static let textDecorationUnderline = underline
-    public static let textNeutral000 = #ffffff
+    public static let textNeutral000 = #ffff00
     public static let textNeutral400 = #8b97cb
     public static let textNeutral450 = #6c74a5
     public static let textNeutral500 = #475694
