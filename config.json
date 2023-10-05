@@ -11,6 +11,14 @@
         }
       ]
     },
+    "json": {
+      "transformGroup": "js",
+      "buildPath": "build/",
+      "files": [{
+        "destination": "styles.json",
+        "format": "json/flat"
+      }]
+    },
     "scss": {
       "transformGroup": "scss",
       "buildPath": "build/scss/",
